@@ -1,27 +1,28 @@
 # Muhammad Yaseen Liaqat
 
-AI/ML and Software Engineering Graduate | Backend-Focused Python Engineer
+Entry-Level AI/ML Engineer and Software Engineer focused on machine learning and backend systems.
 
 ## About Me
-Computer Science graduate building practical machine learning and backend systems.
-My work focuses on model-driven applications, data pipelines, and production APIs.
-I am targeting entry-level AI/ML Engineer and Software Engineer roles.
+Computer Science graduate building practical machine learning and backend projects.
+Experience includes Python-based model development, SQL workflows, and REST API development.
+Targeting entry-level AI/ML Engineer and Software Engineer roles with production-focused project experience.
 
 ## Technical Skills
 - **Languages:** Python, SQL, JavaScript, C#
-- **Machine Learning & AI:** scikit-learn, BigQuery ML, LangChain, RAG, feature engineering, model evaluation
-- **Backend & Data:** Flask, REST APIs, ETL pipelines, BigQuery, SQL Server, Supabase
-- **Tools & Platforms:** Git, Docker, Firebase, Google Cloud (Dataflow, BigQuery)
+- **Machine Learning & AI:** Scikit-learn, BigQuery ML, LangChain, RAG, model evaluation
+- **Backend Engineering:** Flask, ASP.NET MVC, REST APIs, SQL Server
+- **Data & Cloud:** Pandas, NumPy, BigQuery, Dataflow, Cloud Storage, ETL pipelines
+- **Tools:** Git, Docker, Firebase, Supabase, Jupyter
 
 ## Selected Projects
-- **[mabros-backend](https://github.com/MYaseenLiaqat/mabros-backend)** — Production backend API for a courier and logistics platform using Flask and SQL Server.
-- **[bank-marketing-ml](https://github.com/MYaseenLiaqat/bank-marketing-ml)** — Machine learning pipeline to predict bank term deposit subscriptions with scikit-learn.
-- **[ai-journal](https://github.com/MYaseenLiaqat/ai-journal)** — AI journal application with RAG, semantic search, and LangChain-based workflows.
-- **[gcp-dataflow-etl-pipeline](https://github.com/MYaseenLiaqat/gcp-dataflow-etl-pipeline)** — Batch ETL pipeline built with GCS, Dataflow, JavaScript UDFs, and BigQuery.
+- **[mabros-backend](https://github.com/MYaseenLiaqat/mabros-backend):** Flask-based backend API for courier and logistics workflows.
+- **[bank-marketing-ml](https://github.com/MYaseenLiaqat/bank-marketing-ml):** Machine learning pipeline for bank term deposit subscription prediction.
+- **[chicago-taxi-bigquery-ml](https://github.com/MYaseenLiaqat/chicago-taxi-bigquery-ml):** SQL and BigQuery ML project for taxi tip prediction and forecasting.
+- **[gcp-dataflow-etl-pipeline](https://github.com/MYaseenLiaqat/gcp-dataflow-etl-pipeline):** Batch ETL pipeline using Dataflow and BigQuery.
 
 ## Current Focus
-Improving end-to-end ML project delivery from data preparation to deployment-ready backend integration.
+Improving end-to-end ML project delivery and backend integration for production-ready AI applications.
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/muhammad-yaseen-liaqat
-- Email: myaseenliaqat94@gmail.com
+- GitHub: [@MYaseenLiaqat](https://github.com/MYaseenLiaqat)
+- LinkedIn: [muhammad-yaseen-liaqat](https://linkedin.com/in/muhammad-yaseen-liaqat)
