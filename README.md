@@ -1,5 +1,3 @@
-# Muhammad Yaseen Liaqat
-
 **Software Engineer | AI/ML & Backend Systems**
 
 Computer Science graduate building practical AI/ML applications, backend systems, and data-driven software. Focused on developing reliable, scalable solutions across machine learning and software engineering.
